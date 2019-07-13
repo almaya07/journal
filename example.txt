@@ -1,1 +1,19 @@
 my first git file
+python3 -m venv venv
+virtualenv env
+venv\script\activate
+pip install flask
+>>import flask
+(venv) set FlASK_APP= journal.py
+flask run
+
+//set environment flaskk_app= journal.py (save 
+
+file .flaskenv)
+
+pip install python-dotenv
+
+======git========
+git config --global user.name "Firstname Lastname"
+git config --global user.email "your_email@example.com"
+git init
